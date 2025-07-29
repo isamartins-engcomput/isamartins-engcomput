@@ -1,17 +1,21 @@
-<h1 align="center">✨ Olá, eu sou a Isadora Martins! 👩🏽‍💻</h1>
+<h1 align="center">👾 Hello, eu sou a Isadora Martins! 👩🏽‍💻</h1>
 
 <p align="center">
-  Estudante de Engenharia de Computação no IFMS – Campus Três Lagoas
+  <img src="mario.gif" width="100%" style="max-width: 500px;" />
+</p>
+
+<p align="center">
+  <strong><em>Estudante de Engenharia de Computação no IFMS – Campus Três Lagoas</em></strong>
 </p>
 
 ---
 
 ### 👩🏽‍🎓 Sobre mim
 
-Sou entusiasta de tecnologia. Atuo com comprometimento e responsabilidade, curiosidade e propósito, buscando sempre aplicar a tecnologia de forma prática e significativa.
+Sou entusiasta de tecnologia. Atuo com **comprometimento**, **responsabilidade** e **propósito**, buscando aplicar a tecnologia de forma prática e significativa.
 
-🎯 **Áreas de interesse**:  
-Robótica | Automação | Infraestrutura | Desenvolvimento | Inteligência Artificial | Eficiência Energética | Design Digital | Impacto Social com Tecnologia
+#### 🎯 **Áreas de interesse**:  
+`Robótica` | `Automação` | `Infraestrutura` | `Desenvolvimento` | `Inteligência Artificial` | `Eficiência Energética` | `Design Digital` | `Impacto Social com Tecnologia`
 
 ---
 
@@ -19,7 +23,7 @@ Robótica | Automação | Infraestrutura | Desenvolvimento | Inteligência Artif
 
 | Linguagens | Ferramentas & Frameworks | Outros |
 |-----------|---------------------------|--------|
-| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | 💻 VS Code, Canva, Microsoft Office, Google Workspace, Redes Sociais |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | 🛠️ VS Code, Canva, Microsoft Office, Google Workspace, Redes Sociais |
 
 ---
 
@@ -57,16 +61,16 @@ Robótica | Automação | Infraestrutura | Desenvolvimento | Inteligência Artif
 
 ### 📂 Projetos em Destaque
 
-- 💾 [algoritmos2](https://github.com/isamartins-engcomput/algoritmos2): Repositório de exercícios com implementações em C de estruturas de dados e algoritmos da disciplina de Algoritmos 2.
+- 💾 [`algoritmos2`](https://github.com/isamartins-engcomput/algoritmos2): Repositório de exercícios com implementações em C de estruturas de dados e algoritmos da disciplina de Algoritmos 2.
 
-- 📄 [gerador_declaracoes](https://github.com/isamartins-engcomput/gerador_declaracoes.git): Sistema em Python para emissão de declarações em PDF a partir da entrada de dados em arquivo CSV, facilitando processos acadêmicos.
+- 📄 [`gerador_declaracoes`](https://github.com/isamartins-engcomput/gerador_declaracoes.git): Sistema em Python para emissão de declarações em PDF a partir da entrada de dados em arquivo CSV, facilitando processos acadêmicos.
 
 ---
 
 ### 🌱 Idiomas
 
 - 🇧🇷 Português – Fluente  
-- 🇺🇸 Inglês – Básico/Intermediário (leitura, escrita e comunicação em progresso)
+- 🇺🇸 Inglês – Básico/Intermediário *(em progresso)*
 
 ---
 
@@ -79,5 +83,7 @@ Vamos trocar uma ideia? Me encontre por aqui:
 ---
 
 <p align="center">
-  ✨ "Tudo que fizerdes, fazei-o de todo o coração, como ao Senhor, e não aos homens." – Colossenses 3:23 ✨
+  <strong><em>✨ "Tudo quanto fizerdes, fazei-o de todo o coração, como para o Senhor e não para os homens." – Colossenses 3:23</em> ✨</strong>
 </p>
+
+<h3 align="center">💻 Let's code! 🚀</h3>
