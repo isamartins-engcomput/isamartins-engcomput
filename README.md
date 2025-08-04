@@ -42,6 +42,7 @@ Sou entusiasta de tecnologia. Atuo com **comprometimento**, **responsabilidade**
   - Relações Interpessoais – SENAR/MS (16h)  
   - Controle de Orçamento Familiar – SENAR/MS (16h)  
   - Fotografia com o Celular – SEBRAE/MS (20h)
+  - Fundamentos das Plataformas de Sensoriamento Inteligente para Indústria – VIRTUS CC (30h)
 
 ---
 
