@@ -36,13 +36,13 @@ Sou entusiasta de tecnologia. Atuo com **comprometimento**, **responsabilidade**
   SESI/MS – Aparecida do Taboado
 
 - **Cursos Complementares:**  
+  - Fundamentos das Plataformas de Sensoriamento Inteligente para Indústria – VIRTUS CC (30h)
   - Python Básico – Fundação Bradesco (18h)  
   - Oratória – Comunicação Assertiva – SENAR/MS (16h)  
   - Formação de Líderes de Equipe – SENAR/MS (16h)  
   - Relações Interpessoais – SENAR/MS (16h)  
   - Controle de Orçamento Familiar – SENAR/MS (16h)  
   - Fotografia com o Celular – SEBRAE/MS (20h)
-  - Fundamentos das Plataformas de Sensoriamento Inteligente para Indústria – VIRTUS CC (30h)
 
 ---
 
